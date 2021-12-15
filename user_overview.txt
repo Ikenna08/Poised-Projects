@@ -1,0 +1,23 @@
+The total amount of users is 5
+The total amount of Tasks is 5
+
+admin
+Tasks assigned			:3
+Tasks assigned of total tasks	:60.0%
+Tasks assigned completed	:66.7%
+Tasks assigned incomplete	:33.3%
+Tasks assigned overdue		:33.3%
+
+milek
+Tasks assigned			:1
+Tasks assigned of total tasks	:20.0%
+Tasks assigned completed	:0.0%
+Tasks assigned incomplete	:100.0%
+Tasks assigned overdue		:100.0%
+
+john
+Tasks assigned			:1
+Tasks assigned of total tasks	:20.0%
+Tasks assigned completed	:0.0%
+Tasks assigned incomplete	:100.0%
+Tasks assigned overdue		:100.0%

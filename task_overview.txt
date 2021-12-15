@@ -1,0 +1,8 @@
+The number of tasks are: 5.
+The number of completed tasks are: 2.
+The number of uncompleted tasks are: 3.
+The number of overdue tasks are: 3.
+The number of uncompleted and overdue tasks are: 3.
+The percentage of uncompleted tasks are: 60.0.
+The percentage of overdue tasks are: 60.0.
+ are: 66.66666666666666.

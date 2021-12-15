@@ -1,0 +1,4 @@
+admin,adm1n
+sam,sam
+tommy,tommyT
+smith,smite
